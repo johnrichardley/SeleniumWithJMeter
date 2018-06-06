@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Shantanu/immply.selenium.data/Selenium_Setup &amp; Jars/selenium jar/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/Shantanu/immply.selenium.data/Selenium_Setup &amp; Jars/selenium jar/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/Shantanu/immply.selenium.data/Selenium_Setup &amp; Jars/selenium jar/selenium-server-standalone-2.53.1 (1) - Copy.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
